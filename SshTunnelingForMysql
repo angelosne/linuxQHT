@@ -1,0 +1,2 @@
+After you create ssh-keys on client ssh-copy-id to server.
+Connect ssh -N -L 3306:127.0.0.1:3306 <username>@server
